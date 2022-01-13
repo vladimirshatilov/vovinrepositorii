@@ -1,0 +1,7 @@
+Customer1 item1 5
+Customer2 item1 8
+Customer2 item1 9
+Customer3 item4 34
+Customer5 item7 32
+Customer5 item6 1
+Customer7 item7 8
